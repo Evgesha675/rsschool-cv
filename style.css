@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Acrom";
+  src: url("../assets/fonts/Acrom-Bold.woff2") format("woff2");
+  background-color: #fff;
+  color: #000;
+  line-height: 1.6;
+}
